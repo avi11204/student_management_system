@@ -1,0 +1,6 @@
+S101,Avanthikha,21,CSD
+S102,Harsavardan,26,CSE
+S103,Sangeetha,25,ECE
+S104,Happy,25,AIDS
+S105,Fun,32,EEE
+S109,Good,32,MBA
